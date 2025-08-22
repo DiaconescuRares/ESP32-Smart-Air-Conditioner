@@ -3,7 +3,7 @@
 Minimal ESP32 project that controls a fan with **setpoint + hysteresis** logic (similar to an air conditioner).  
 This first version runs **locally** and prints logs to the Serial Monitor with **timestamps in seconds**.
 
-🎥 Demo video: https://youtu.be/REPLACE_WITH_YOUR_VIDEO_ID
+🎥 Demo video: https://www.youtube.com/shorts/EqXhhUkkgkQ
 
 ---
 
